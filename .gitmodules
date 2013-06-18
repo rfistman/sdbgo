@@ -1,0 +1,3 @@
+[submodule "s3go"]
+	path = s3go
+	url = git@github.com:rfistman/s3go.git
